@@ -18,3 +18,5 @@ roslaunch quad_srdf quad_rviz.launch
 
 Run Moveit Setup Assistant:
 roslaunch moveit_setup_assistant moveit_setup_assistant.launch
+
+![alt tag](https://www.zeldadungeon.net/wiki/images/1/1e/GoriyaBlue-Sprite-AOL.png)
