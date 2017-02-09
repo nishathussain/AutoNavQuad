@@ -21,7 +21,7 @@
 <br>will upload further details<br />
 
 ![alt tag](https://github.com/nishathussain/AutoNavQuad/blob/master/pres_data_full.png)
-<br>autoNavigation, pathplanning in complex envirenment.<br />
+<br>Autonomous Navigation, Pathplanning in complex indoor environment, Mavros communication to UAV.<br />
 
 <br>Currently working on stereo and path planning using deep neural net.<br />
 <br>contact: hussain.nishat@gmail.com<br />
